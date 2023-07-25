@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Resume site](http://store.sadayfdt.beget.tech/)
 
-- 👨‍💻 My previous project [Previous project](http://sadayfdt.beget.tech/)
+- 👨‍💻 My previous project [Online store](http://sadayfdt.beget.tech/)
 
 - 📫 How to reach me **sadayit@gmail.com**
 
